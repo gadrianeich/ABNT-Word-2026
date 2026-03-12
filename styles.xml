@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles>
+    <style name="Article">
+        <properties>
+            <property name="font" value="Times New Roman"/>
+            <property name="fontSize" value="12"/>
+            <property name="lineSpacing" value="1.5"/>
+            <property name="margin" value="1in"/>
+        </properties>
+    </style>
+    <style name="Report">
+        <properties>
+            <property name="font" value="Arial"/>
+            <property name="fontSize" value="11"/>
+            <property name="lineSpacing" value="1.5"/>
+            <property name="margin" value="1.25in"/>
+        </properties>
+    </style>
+    <style name="Thesis">
+        <properties>
+            <property name="font" value="Calibri"/>
+            <property name="fontSize" value="12"/>
+            <property name="lineSpacing" value="1.0"/>
+            <property name="margin" value="1.5in"/>
+        </properties>
+    </style>
+</styles>
